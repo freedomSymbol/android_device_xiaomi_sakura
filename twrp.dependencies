@@ -1,0 +1,13 @@
+[
+  {
+    "remote": "TeamWin",
+    "repository": "android_device_xiaomi_mithorium-common",
+    "target_path": "device/xiaomi/mithorium-common"
+  },
+  {
+    "remote": "github",
+    "repository": "mahajant99/kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "revision": "lineage-17.1"
+  }
+]
